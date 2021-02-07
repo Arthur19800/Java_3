@@ -23,6 +23,7 @@ public class Main {
         }
 
         }
+	//  function checks inputted numbers 
     public static void Guess_number(int a) {
         int b;
         int count;
